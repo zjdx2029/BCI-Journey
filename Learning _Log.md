@@ -18,8 +18,8 @@
  - 'Serial.begin(9600);' Initializes serial communication, sets baud rate.
 - **Sending Data (Output)**:
  - 'Serial.print(val);' Print without a newline.
- - 'Serial.println(val); 'print with a newline'.
- - *Note*: Use double quotes '""' for strings, single quotes '''' for characters.
+ - 'Serial.println(val);'print with a newline.
+ - *Note*: Use double quotes ' "" ' for strings, single quotes ' '' ' for characters.
 - **Receving Data (Input, in 'loop()')**:
  - 'Serial.available();' Returns the number of bytes waiting in the buffer.
  - 'Serial.read();' Reads and returns one byte (char type) each time.
