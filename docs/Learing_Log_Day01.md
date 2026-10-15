@@ -1,4 +1,4 @@
-# Day 1(2026/10/13): Arduino Basic Theory and Serial Communication
+# Day 1(2026/10/14): Arduino Basic Theory and Serial Communication
 ## 1. Arudino Nano over Uno?
 - **Same close**: Both use the ATmega328P chip. Their logic and progamming methods are identical.
 - **Physical Size**: Nano is smaller and cheaper.
