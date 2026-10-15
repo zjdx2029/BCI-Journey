@@ -25,7 +25,7 @@
  - 'Serial.read();' Reads and returns one byte (char type) each time.
 
 ## 5. Physical Pin Annotation (Pending)
-- ![Nano Pin Annotation](./images/nano_pinout.jpg)
+- ![Nano Pin Annotation](/images/nano_pinout.jpg)
 
 ## Learing Insights (AI-Assisted)
 In today's theoretical study, I was confused about "serial communication" and "how the board runs independently". By watching Bilibili videos and asking AI some key questions (e.g., "why can the board run without being connected to a computer and how can computer send the oders to the board"). After figuring it out, I built the full logic chain: **Code is burned into the chip -> Hardware runs independently -> Sends data via USB -> Python on the computer receives it.** Connecting "abstract code" to the "physical world" feels amazing.
