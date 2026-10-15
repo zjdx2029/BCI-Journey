@@ -1,4 +1,4 @@
-# Day 2: Python pyserial Serial Communication
+# Day 2(2026/10/15): Python pyserial Serial Communication
 
 ## 1. The relationship between Python, IDE, and Nano
 - **IDE**: Used to "burn" complied C++ code into the Nano. It can also send text commands via the Serial Monitor.
@@ -52,6 +52,6 @@ void loop(){
  - AI Assistant (Qianwen) : Clarify the division of roles between Arduino IDE and Python in serial communication
 
  ## Handwritting notes:
- - ![2.1](./images/note_Day2_1.jpg)
- - ![2.1](./images/note_Day2_2.jpg)
- - ![2.3](./images/note_Day2_3.jpg)
+ - ![2.1](/images/note_Day2_1.jpg)
+ - ![2.1](/images/note_Day2_2.jpg)
+ - ![2.3](/images/note_Day2_3.jpg)
