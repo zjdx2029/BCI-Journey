@@ -39,5 +39,5 @@ In today's theoretical study, I was confused about "serial communication" and "h
 - AI Assistant (Deepseek) :Used for clarifying hardware/software concepts.
  
 ## Handwritting notes
-- ![1.1](./images/note_Day1_1.jpg)
-- ![1.2](./images/note_Day1_2.jpg)
+- ![1.1](/images/note_Day1_1.jpg)
+- ![1.2](/images/note_Day1_2.jpg)
