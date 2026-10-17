@@ -20,6 +20,6 @@ As the official said, it can be solved by re-downloading. Here is the official w
 # 3. sketch doesn't upload
 My right sketch doesn't upload when I finished it. 
 ![Upload_Failed](/images/Upload_Failed.png)
-Followed the official web's suggestions and I changed the board in **Old Bootloader** in my IDE and finally successed. If you have the same problem, please check whether the board and port are right. By the way, if you are buying board in 3rd places, check this is always right.
+Followed the official web's suggestions and I changed the board in **Old Bootloader** in my IDE and finally successed. If you have the same problem, please check whether the board and port are right. By the way, if you are buying board in 3rd places, check this is always right.[https://support.arduino.cc/hc/en-us/articles/4403365313810-If-your-sketch-doesn-t-upload]
 When you final sloved it, your screen will look like this:
 ![Old_Bootloader](/images/Old_Bootloader.png)
