@@ -1,4 +1,4 @@
-# Day 5: First Data Acquisition Attempt & Troubleshooting
+# Day 5(2026/10/18): First Data Acquisition Attempt & Troubleshooting
 
 ## 1. Project Progress Overview
 
