@@ -2,3 +2,4 @@
 - [Day 2](Learning_Log_Day02.md)
 - [Day 3](Learning_Log_Day03.md)
 - [Day 4](Learning_Log_Day04.md)
+- [Day 5](Learning_Log_Day05.md)
