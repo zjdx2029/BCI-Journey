@@ -1,4 +1,4 @@
-# Day 4: Arduino Setup & Serial Communication
+# Day 4(2026/10/17): Arduino Setup & Serial Communication
 
 ## 1. Data Acquisition Flowchart
 *Note: Today's focus is the Lower Computer (Arduino).*
